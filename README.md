@@ -1,3 +1,4 @@
 # html-to-txt
-"# html-to-txt"  
-"# html2txt" 
+use https://github.com/nianeyna/ao3downloader export html
+
+Then trasns html to txt.
